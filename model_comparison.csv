@@ -1,0 +1,7 @@
+Model,Accuracy,F1_Score,Precision,Recall
+SVM,80.12,79.99,80.71,80.12
+XGBoost,79.6,79.57,80.43,79.6
+KNN,79.0,78.88,79.19,79.0
+Random Forest,77.8,77.8,78.17,77.8
+Logistic Regression,76.25,75.87,75.92,76.25
+Naive Bayes,72.81,72.05,71.99,72.81
